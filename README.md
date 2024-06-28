@@ -32,7 +32,7 @@
 iOS application to view different school's free public data published by New York City agencies and other partners.
 
 
-<img src="https://github.com/bhoomijv04/20231118-BhoomiVadgama-NYCSchools/blob/main/Screenshots/SchoolList.png" width="320"/> <img src="https://github.com/bhoomijv04/20231118-BhoomiVadgama-NYCSchools/blob/main/Screenshots/SchoolDetail.png" width="320"/> <img src="https://github.com/bhoomijv04/20231118-BhoomiVadgama-NYCSchools/blob/main/Screenshots/SchoolDetail2.png" width="320"/>
+<img src="https://github.com/bhoomijv04/MemoryGame/tree/main/Screenshots/GameView.png" width="320"/> <img src="https://github.com/bhoomijv04/20231118-BhoomiVadgama-NYCSchools/blob/main/Screenshots/SchoolDetail.png" width="320"/>
 
 <!-- BUILT WITH -->
 ### Built With
