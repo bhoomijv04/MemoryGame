@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/bhoomijv04/MemoryGam]">
+  <a href="[https://github.com/bhoomijv04/MemoryGame]">
     <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,7 +20,7 @@
   <p align="center">
     An awesome mobile app to jumpstart Game app.
     <br />
-    <a href="https://github.com/bhoomijv04/20231118-BhoomiVadgama-NYCSchools"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bhoomijv04/MemoryGame"><strong>Explore the docs »</strong></a>
     <br />
 
   </p>
@@ -32,7 +32,7 @@
 iOS application to view different school's free public data published by New York City agencies and other partners.
 
 
-<img src="https://github.com/bhoomijv04/MemoryGame/tree/main/Screenshots/GameView.png" width="320"/> <img src="https://github.com/bhoomijv04/20231118-BhoomiVadgama-NYCSchools/blob/main/Screenshots/SchoolDetail.png" width="320"/>
+<img src="https://github.com/bhoomijv04/MemoryGame/blob/main/Screenshot/GameView.png" width="320"/> <img src="https://github.com/bhoomijv04/MemoryGame/blob/main/Screenshot/Matched.png" width="320"/>
 
 <!-- BUILT WITH -->
 ### Built With
