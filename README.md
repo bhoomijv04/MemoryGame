@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-iOS application to view different school's free public data published by New York City agencies and other partners.
+iOS application to play memory game.
 
 
 <img src="https://github.com/bhoomijv04/MemoryGame/blob/main/Screenshot/GameView.png" width="320"/> <img src="https://github.com/bhoomijv04/MemoryGame/blob/main/Screenshot/Matched.png" width="320"/>
